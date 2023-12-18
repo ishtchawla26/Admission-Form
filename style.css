@@ -1,0 +1,42 @@
+.addmission-form{
+    height: auto;
+    background-image: url("https://c8.alamy.com/comp/2EB0MDJ/workplace-of-a-doctor-stethoscopehealth-care-admission-report-formpencil-on-wooden-desk-background-top-view-with-copy-space-health-concept-2EB0MDJ.jpg");
+    background-size: cover;
+    width: 900px;
+    border: 5px solid blue;
+    padding: 20px;
+    margin: 0 auto;
+}
+.addmission-form h2{
+    text-transform: uppercase;
+    text-align: left;
+    padding: 20px 0px;
+    text-decoration: underline;
+}
+.form-part label{
+    display: block;
+    font-size: 18px;
+    font-weight: 600px;
+    padding: 5px 0px;
+    text-transform: capitalize;
+}
+.form-part input{
+    width: 49%;
+    padding: 8px 20px; 
+}
+.form-part input[type="radio"]{
+    width: 10%;
+}
+.form-part select{
+    width: 54%;
+    padding: 8px 20px;
+}
+.form-part option{}
+.addmission-form button{
+    padding: 8px 30px;
+    background-color: BLUE;
+    color: white;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 500px;
+}
